@@ -1,0 +1,12 @@
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/base/BaseTest.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/pages/CartPage.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/pages/CheckoutOverviewPage.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/pages/CheckoutPage.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/pages/CompletePage.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/pages/LoginPage.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/pages/ProductPage.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/tests/AddToCartTest.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/tests/CheckoutOverviewTest.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/tests/CheckoutTest.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/tests/CompleteCheckoutTest.java
+/Users/arnifebryartisitorus/Documents/LearnBasic-Selenium/src/test/java/tests/LoginTest.java
